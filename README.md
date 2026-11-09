@@ -2,6 +2,8 @@
 
 [中文文档](README_CN.md) | English
 
+**No longer maintained.** See [dreaifeHebi/RssFeedTeleBot](https://github.com/dreaifeHebi/RssFeedTeleBot) for RSS, X and YouTube feeds.
+
 A serverless Telegram bot that monitors YouTube channels for live streams and sends notifications to Telegram chats, supergroups, and topics. Run entirely on Cloudflare Workers (Free Tier compatible).
 
 ## Features

@@ -2,6 +2,8 @@
 
 [English](README.md) | 中文文档
 
+**已停止维护。** RSS、X 和 YouTube 推送请看 [dreaifeHebi/RssFeedTeleBot](https://github.com/dreaifeHebi/RssFeedTeleBot)。
+
 一个监控 YouTube 频道直播并发送通知到 Telegram 聊天、Supergroup 和 Topic 的无服务器机器人。完全运行在 Cloudflare Workers 上（兼容免费套餐）。
 
 ## 功能特点
